@@ -1,9 +1,9 @@
 # Information
 ----------------
-Name | MING Lai Tin
-SID | 1155126370
-Major | Computer Science
-Year | 2
+Name : MING Lai Tin
+SID : 1155126370
+Major : Computer Science
+Year : 2
 ----------------
 # Introducing myself
 ## As a developer
