@@ -1,10 +1,13 @@
 # Information
-----------------
-Name | MING Lai Tin
-SID | 1155126370
-Major | Computer Science
-Year | 2
-----------------
+
+Item | Info
+-----|------------
+Name| MING Lai Tin
+SID| 1155126370
+Major| Computer Science
+Year| 2
+------------------
+
 # Introducing myself
 ## As a developer
 I  learned some **HTML**, **CSS**, and a little bit **Javascript** and **JQuery** when I was doing my ICT SBA during high school *(I was taking elective C: multimedia)*. I can also use **C** and **Java** because I learned them in CUHK. But I have never done my own project apart from school assignments and projects. I have no idea what to do. I hope I can find something to make in this summers. 
