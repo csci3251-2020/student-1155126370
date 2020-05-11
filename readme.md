@@ -1,7 +1,7 @@
 # Information
 
 Item | Info
------|----------
+-----|------------
 Name | MING Lai Tin
 SID | 1155126370
 Major | Computer Science
